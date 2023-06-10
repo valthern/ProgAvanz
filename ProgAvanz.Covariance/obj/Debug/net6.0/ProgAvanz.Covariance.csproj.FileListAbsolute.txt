@@ -1,0 +1,12 @@
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\bin\Debug\net6.0\ProgAvanz.Covariance.deps.json
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\bin\Debug\net6.0\ProgAvanz.Covariance.dll
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\bin\Debug\net6.0\ProgAvanz.Covariance.pdb
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\ProgAvanz.Covariance.csproj.AssemblyReference.cache
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\ProgAvanz.Covariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\ProgAvanz.Covariance.AssemblyInfoInputs.cache
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\ProgAvanz.Covariance.AssemblyInfo.cs
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\ProgAvanz.Covariance.csproj.CoreCompileInputs.cache
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\ProgAvanz.Covariance.dll
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\refint\ProgAvanz.Covariance.dll
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\ProgAvanz.Covariance.pdb
+C:\Users\magno\source\repos\ProgAvanz\ProgAvanz.Covariance\obj\Debug\net6.0\ref\ProgAvanz.Covariance.dll

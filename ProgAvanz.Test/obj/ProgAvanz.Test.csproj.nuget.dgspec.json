@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Test\\ProgAvanz.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Covariance\\ProgAvanz.Covariance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Covariance\\ProgAvanz.Covariance.csproj",
+        "projectName": "ProgAvanz.Covariance",
+        "projectPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Covariance\\ProgAvanz.Covariance.csproj",
+        "packagesPath": "C:\\Users\\magno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Covariance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\magno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Delegates\\ProgAvanz.Delegates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Delegates\\ProgAvanz.Delegates.csproj",
+        "projectName": "ProgAvanz.Delegates",
+        "projectPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Delegates\\ProgAvanz.Delegates.csproj",
+        "packagesPath": "C:\\Users\\magno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Delegates\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\magno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Events\\ProgAvanz.Events.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Events\\ProgAvanz.Events.csproj",
+        "projectName": "ProgAvanz.Events",
+        "projectPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Events\\ProgAvanz.Events.csproj",
+        "packagesPath": "C:\\Users\\magno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Events\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\magno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Test\\ProgAvanz.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Test\\ProgAvanz.Test.csproj",
+        "projectName": "ProgAvanz.Test",
+        "projectPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Test\\ProgAvanz.Test.csproj",
+        "packagesPath": "C:\\Users\\magno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\magno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Covariance\\ProgAvanz.Covariance.csproj": {
+                "projectPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Covariance\\ProgAvanz.Covariance.csproj"
+              },
+              "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Delegates\\ProgAvanz.Delegates.csproj": {
+                "projectPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Delegates\\ProgAvanz.Delegates.csproj"
+              },
+              "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Events\\ProgAvanz.Events.csproj": {
+                "projectPath": "C:\\Users\\magno\\source\\repos\\ProgAvanz\\ProgAvanz.Events\\ProgAvanz.Events.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
